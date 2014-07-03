@@ -1,0 +1,23 @@
+{
+  "name": "ionic-todo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonshark/workshop_cordova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonshark/workshop_cordova/issues"
+  },
+  "homepage": "https://github.com/jasonshark/workshop_cordova",
+  "dependencies": {
+    "gulp": "^3.8.5",
+    "gulp-connect": "^2.0.5"
+  }
+}

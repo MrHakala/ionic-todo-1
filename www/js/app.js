@@ -1,4 +1,4 @@
-angular.module('todo', ['ionic'])
+angular.module('todo', ['ionic', 'firebase'])
 // Projects factory handles saving and loading projects from local storage,
 // also lets us save and load the last project index
 .factory('Projects', function(){
